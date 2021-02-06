@@ -9,8 +9,7 @@
     "precompiledReferences": [
         "Newtonsoft.Json.dll",
         "SocketIOClient.dll",
-        "websocket-sharp.dll",
-        "System.ValueTuple.dll"
+        "websocket-sharp.dll"
     ],
     "autoReferenced": true,
     "defineConstraints": []
