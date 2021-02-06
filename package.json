@@ -1,6 +1,6 @@
 {
   "name": "com.atb.bzzr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Bzzr.dev",
   "description": "This integrates the online buzzer system Bzzr.dev into Unity.",
   "unity": "2018.4",
